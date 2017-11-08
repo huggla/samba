@@ -1,2 +1,2 @@
 # samba
-Snapshot of vimagick/dockerfiles/samba.
+Stable snapshot of vimagick/dockerfiles/samba.
