@@ -1,2 +1,2 @@
 # samba
-Fork of vimagick/dockerfiles/samba.
+Snapshot of vimagick/dockerfiles/samba.
